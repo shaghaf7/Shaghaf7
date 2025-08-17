@@ -53,4 +53,3 @@
 <br>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shaghaf7/shaghaf7/output/snake.svg" alt="Snake animation" />
